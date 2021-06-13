@@ -1,13 +1,40 @@
 .header {
   height: 100px;
+  box-sizing: border-box;
+  width: 100%;
   background-color: #fdcb6e;
   display: flex;
   align-items: center;
-  padding: 0 20px;
+  justify-content: space-between;
+  padding: 0 42px;
+  position: fixed;
+  box-shadow: 0px 0px 15px #bdc3c7;
 }
 
 .header span {
   color: white;
   font-size: 30px;
   font-weight: 300;
+}
+
+.site_link {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-end;
+}
+
+.site_link div {
+  padding: 4px;
+}
+
+.site_link a {
+  color: white;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.site_link a:hover {
+  color: gray;
 }

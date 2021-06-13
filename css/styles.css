@@ -7,3 +7,8 @@
 
 /* Screens */
 @import "screens/home.html";
+
+.wrapper {
+  padding: 0 20px;
+  padding-top: 160px;
+}
