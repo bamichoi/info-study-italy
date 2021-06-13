@@ -1,0 +1,9 @@
+@import "reset.css";
+
+/* Components */
+@import "components/header.css";
+@import "components/citycard.css";
+@import "components/info.css";
+
+/* Screens */
+@import "screens/home.html";
