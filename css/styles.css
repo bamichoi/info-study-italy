@@ -12,3 +12,14 @@
   padding: 0 20px;
   padding-top: 160px;
 }
+
+footer {
+  padding-top: 60px;
+  padding-bottom: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+footer span {
+  color: #b2bec3;
+}

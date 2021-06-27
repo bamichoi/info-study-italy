@@ -11,10 +11,6 @@
   background-color: #ffffff;
 }
 
-.border-roma {
-  border: 5px solid #f39c12;
-  border-radius: 10px;
-}
 .info_column {
   width: 100%;
   height: 500px;
@@ -26,9 +22,7 @@
   justify-content: center;
   align-items: center;
 }
-.divide-roma {
-  border-right: 1px solid #f39c12;
-}
+
 .info_column:last-child {
   display: flex;
   flex-direction: column;
@@ -53,4 +47,50 @@
   padding-bottom: 15px;
   font-size: 30px;
   font-weight: 300;
+}
+
+.img_resize {
+  width: 220px;
+  height: 90px;
+}
+
+.img_resize_2 {
+  width: 220px;
+  height: 200px;
+}
+
+.border-roma {
+  border: 5px solid #f39c12;
+  border-radius: 10px;
+}
+
+.divide-roma {
+  border-right: 1px solid #f39c12;
+}
+
+.border-milano {
+  border: 5px solid #3498db;
+  border-radius: 10px;
+}
+
+.divide-milano {
+  border-right: 1px solid #3498db;
+}
+
+.border-firenze {
+  border: 5px solid #a29bfe;
+  border-radius: 10px;
+}
+
+.divide-firenze {
+  border-right: 1px solid #a29bfe;
+}
+
+.border-venezia {
+  border: 5px solid #f1c40f;
+  border-radius: 10px;
+}
+
+.divide-venezia {
+  border-right: 1px solid #f1c40f;
 }
