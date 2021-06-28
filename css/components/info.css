@@ -94,3 +94,12 @@
 .divide-venezia {
   border-right: 1px solid #f1c40f;
 }
+
+.border-bologna {
+  border: 5px solid #d35400;
+  border-radius: 10px;
+}
+
+.divide-bologna {
+  border-right: 1px solid #d35400;
+}
