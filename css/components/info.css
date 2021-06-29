@@ -103,3 +103,12 @@
 .divide-bologna {
   border-right: 1px solid #d35400;
 }
+
+.border-genova {
+  border: 5px solid #27ae60;
+  border-radius: 10px;
+}
+
+.divide-genova {
+  border-right: 1px solid #27ae60;
+}
