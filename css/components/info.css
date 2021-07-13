@@ -121,3 +121,66 @@
 .divide-torino {
   border-right: 1px solid #2980b9;
 }
+
+.border-napoli {
+  border: 5px solid #74b9ff;
+  border-radius: 10px;
+}
+
+.divide-napoli {
+  border-right: 1px solid #74b9ff;
+}
+
+.border-carrara {
+  border: 5px solid #636e72;
+  border-radius: 10px;
+}
+
+.divide-carrara {
+  border-right: 1px solid #636e72;
+}
+
+.border-perugia {
+  border: 5px solid #c23616;
+  border-radius: 10px;
+}
+
+.divide-perugia {
+  border-right: 1px solid #c23616;
+}
+
+.border-bari {
+  border: 5px solid #ff9f43;
+  border-radius: 10px;
+}
+
+.divide-bari {
+  border-right: 1px solid #ff9f43;
+}
+
+.border-parma {
+  border: 5px solid #e1b12c;
+  border-radius: 10px;
+}
+
+.divide-parma {
+  border-right: 1px solid #e1b12c;
+}
+
+.border-padova {
+  border: 5px solid #d40e00;
+  border-radius: 10px;
+}
+
+.divide-padova {
+  border-right: 1px solid #d40e00;
+}
+
+.border-pisa {
+  border: 5px solid #00cec9;
+  border-radius: 10px;
+}
+
+.divide-pisa {
+  border-right: 1px solid #00cec9;
+}

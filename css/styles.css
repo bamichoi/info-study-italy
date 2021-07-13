@@ -6,12 +6,7 @@
 @import "components/info.css";
 
 /* Screens */
-@import "screens/home.html";
-
-.wrapper {
-  padding: 0 20px;
-  padding-top: 160px;
-}
+@import "screens/home.css";
 
 footer {
   padding-top: 60px;
@@ -22,4 +17,8 @@ footer {
 
 footer span {
   color: #b2bec3;
+}
+
+footer a {
+  color: teal;
 }
