@@ -11,13 +11,24 @@
   box-shadow: 0px 0px 15px #bdc3c7;
 }
 
-.header span {
+.header_title a {
+  display: flex;
+  flex-direction: column;
+}
+
+.header_title span:first-child {
   color: white;
   font-size: 30px;
   font-weight: 500;
 }
 
-.site_link {
+.header_title span:nth-child(2) {
+  color: white;
+  font-size: 20px;
+  font-weight: 300;
+}
+
+.header_link {
   padding: 10px;
   display: flex;
   flex-direction: column;
@@ -25,16 +36,16 @@
   align-items: flex-end;
 }
 
-.site_link div {
+.header_link div {
   padding: 4px;
 }
 
-.site_link a {
+.header_link a {
   color: white;
   font-size: 20px;
   font-weight: 500;
 }
 
-.site_link a:hover {
-  color: gray;
+.header_link a:hover {
+  color: #dfe6e9;
 }

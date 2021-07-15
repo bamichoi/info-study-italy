@@ -1,6 +1,9 @@
 .wrapper {
-  padding: 0 20px;
+  margin: 0 40px;
   padding-top: 130px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .admin {
@@ -13,7 +16,6 @@
   height: 200px;
   background-color: white;
   border: 2px solid #fdcb6e;
-  margin-left: 21px;
 }
 
 .notice_title {
