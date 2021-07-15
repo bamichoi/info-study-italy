@@ -24,9 +24,15 @@
   background-color: #fdcb6e;
 }
 
-.notice_title span {
+.notice_title span:first-child {
   color: white;
   font-size: 20px;
+}
+
+.notice_title span:nth-child(2) {
+  color: white;
+  font-size: 13px;
+  font-weight: 300;
 }
 
 .notice_content {
