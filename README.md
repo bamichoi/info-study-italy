@@ -1,4 +1,4 @@
-# 이탈리아 유학정보 포탈 Info Study in Italy version A.A 2021/2022
+# 이탈리아 유학정보 포탈 Info Study in Italy
 
 이탈리아 지역별·학교별 유학정보 포탈🇮🇹  
 Informatin potal service for studying in Italy  
