@@ -9,7 +9,7 @@ https://bamichoi.github.io/info-study-italy/
   
 이탈리아 지역별·학교별 유학 정보 링크 사이트  
   
-## 💻사용 언어 Languages
+## 💻개발 언어 및 환경 Languages
   
 Frontend : HTML, CSS  
   
